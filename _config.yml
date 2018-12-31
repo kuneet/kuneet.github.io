@@ -1,8 +1,8 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
-baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-template' to ''
-url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+title: gsa home
+description: "gsa home"
+baseurl: "" # for test: remove string '/space-jekyll-template' to ''
+url: "gsa.ink" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 
 # User settings
 username: lorem ipsum
@@ -33,8 +33,8 @@ links:
     - title: home
       url: /
       key_trigger: 1
-    - title: my posts
-      url: /posts
+    - title: esxi
+      url: http://esxi.gsa.ink
       key_trigger: 2
     - title: series
       url: /series
@@ -60,7 +60,7 @@ links:
 # projects in header index
 projects:
   - name: esxi
-    url: esxi.gsa.ink
+    url: https//esxi.gsa.ink
   - name: vim-frontend
     url: https://github.com/victorvoid/vim-frontend
   - name: generator-capybara
