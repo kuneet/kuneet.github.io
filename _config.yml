@@ -2,7 +2,7 @@
 title: gsa home
 description: "gsa home"
 baseurl: "" # for test: remove string '/space-jekyll-template' to ''
-url: "gsa.ink" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 
 # User settings
 username: lorem ipsum
