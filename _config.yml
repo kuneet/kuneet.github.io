@@ -30,37 +30,20 @@ compress_html:
 # Links to include in menu navigation
 links:
   section_1:
-    - title: home
-      url: /
+    - title: blueiris
+      url: http://sec.gsa.ink
       key_trigger: 1
     - title: esxi
       url: http://esxi.gsa.ink
       key_trigger: 2
-    - title: series
-      url: /series
+    - title: unifi
+      url: https://unifi.gsa.ink:8443/
       key_trigger: 3
-    - title: tags
-      url: /tags
-      key_trigger: 4
-    - title: about me
-      url: /about
-      key_trigger: 5
-  section_2:
-    - title: github
-      url: http://www.github.com/victorvoid
-      new_tab: true
-      key_trigger: g
-    - title: twitter
-      url: http://www.twitter.com/victorvoid
-      key_trigger: t
-    - title: search
-      url: ""
-      key_trigger: s #WARNING: search only works with "s"
 
 # projects in header index
 projects:
   - name: esxi
-    url: https//esxi.gsa.ink
+    url: https://esxi.gsa.ink
   - name: vim-frontend
     url: https://github.com/victorvoid/vim-frontend
   - name: generator-capybara
