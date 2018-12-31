@@ -31,7 +31,7 @@ compress_html:
 links:
   section_1:
     - title: blueiris
-      url: http://sec.gsa.ink
+      url: http://sec.gsa.ink:10069/
       key_trigger: 1
     - title: esxi
       url: http://esxi.gsa.ink
