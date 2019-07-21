@@ -34,7 +34,7 @@ links:
       url: http://sec.gsa.ink:10069/
       key_trigger: 1
     - title: guac
-      url: http://gc.gsa.ink:10181/
+      url: https://gc.gsa.ink:10182/
       key_trigger: 2
     - title: esxi
       url: http://esxi.gsa.ink
